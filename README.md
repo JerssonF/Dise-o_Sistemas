@@ -3,6 +3,8 @@
 
 En este espacio encontrarán trabajos, ejercicios y repositorios realizados durante el V semestre 2024B.
 
-## Actividades  
+## Actividades 
 
+- [Diagramas](Diagrama_de_casos_uso_c4/Img)
 - [Laboratorio](Laboratorio_caso_de_usos_Caso_de_Uso_9/Imagenes)
+- [Parcial](Parcial/Diagramas)
